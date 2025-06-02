@@ -1,14 +1,4 @@
-
-````markdown
-<h1 align="center">🎉 Site de Aniversário para Minha Namorada 🎂</h1>
-
-<p align="center">
-  <a href="https://6831499199a3a80a260428a6--tiny-mermaid-37f0e5.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Feito%20com-%E2%9D%A4%EF%B8%8F%20por%20Vinicius-red" alt="Feito com amor">
-  </a>
-</p>
-
-> Um presente digital feito com carinho para comemorar o aniversário da minha namorada, Lara. 💖
+Um presente digital feito com carinho para comemorar o aniversário da minha namorada, Lara. 💖
 
 ---
 
