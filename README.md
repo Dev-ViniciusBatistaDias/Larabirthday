@@ -21,7 +21,6 @@ Você pode acessar o site aqui: [Feliz Aniversário, Meu Amor!](https://68314991
 - JavaScript
 - React.JS
 - Bootstrap
-- Tailwind.css
 - [Netlify](https://www.netlify.com/) para hospedagem
 
 ---
